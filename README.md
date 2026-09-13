@@ -1,4 +1,4 @@
-# 🎬 CineResearch
+# 🎬 MacGuffin
 
 ### Autonomous AI Movie Research Agent
 
